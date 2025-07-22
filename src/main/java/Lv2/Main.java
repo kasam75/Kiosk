@@ -25,10 +25,10 @@ public class Main {
 
                 for (MenuList ml1 : menu1) {
                     if (ml1.Num == 1) {
-                        System.out.print("번호" + "  " + ml1.Num + "  ");
-                        System.out.print("메뉴" + "  " + ml1.Name + "  ");
-                        System.out.print("가격" + "  " + ml1.Price + "  ");
-                        System.out.println("제료 " + "  " + ml1.Ingredient + "  ");
+                        System.out.print("\n 번호" + "  " + ml1.Num + "  ");
+                        System.out.print(" 메뉴" + "  " + ml1.Name + "  ");
+                        System.out.print(" 가격" + "  " + ml1.Price + "  ");
+                        System.out.println(" 제료 " + "  " + ml1.Ingredient + "  ");
                     }
                 }
             } else if (n1.equals("2")) {
