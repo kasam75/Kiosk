@@ -70,7 +70,6 @@ public class Main {
                 System.out.println( "번호를 다시 입력 해 주세요");
             }
         }
-
     }
 }
 //            if (a1.equals("1")) {
