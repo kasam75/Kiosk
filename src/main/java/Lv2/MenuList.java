@@ -11,6 +11,6 @@ public class MenuList {
         this.Name = Name;
         this.Price = Price;
         this.Ingredient = Ingredient;
-
+//변수 이름 소문자
     }
 }
